@@ -477,7 +477,7 @@ body{
 
 
 .skills .skill-content .right .ps::before{
-    width: 85%;
+    width: 80%;
 }
 .skills .skill-content .right .mg::before{
     width: 82%;
@@ -489,9 +489,12 @@ body{
     width: 86%;
 }
 .skills .skill-content .right .html::before{
-    width: 99%;
+    width: 95%;
 }
 .skills .skill-content .right .dm::before{
+    width: 70%;
+}
+.skills .skill-content .right .ud::before{
     width: 70%;
 }
 /* teams section */

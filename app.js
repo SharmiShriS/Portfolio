@@ -11,7 +11,7 @@ $(document).ready(function(){
 var typed=new Typed(".typing-1",{
     strings:[
         "Developer","Coder",
-        "Designer","Speaker"
+        "Designer"
     ],
     typeSpeed:80,
     backSpeed:60,
@@ -22,7 +22,7 @@ var typed=new Typed(".typing-1",{
 var typed=new Typed(".typing-2",{
     strings:[
         "Developer","Coder",
-        "Designer","Speaker"
+        "Designer"
     ],
     typeSpeed:80,
     backSpeed:60,
